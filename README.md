@@ -95,7 +95,7 @@ When you press the trigger binding, Aimmy will capture the screen and run the im
 ## Setup
 - Download and Install the x64 version of [.NET Runtime 8.0.X.X]( )
 - Download and Install the x64 version of [Visual C++ Redistributable]( )
-- Download Aimmy from [Releases]( ) (Make sure it's the Bahemot zip and not Source zip)
+- Download Bahemot from [Releases]( ) (Make sure it's the Bahemot zip and not Source zip)
 - Extract the Bahemot.zip file
 - Run Bahemot.exe
 - Choose your Model and Enjoy :)
